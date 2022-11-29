@@ -4,7 +4,6 @@ public class Box {
     private double available;
 
     public Box(double available) {
-        super();
         this.available = available;
     }
 
